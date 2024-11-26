@@ -990,3 +990,6 @@
 2024-11-20 11:48:39,552 [Worker-113: Launching my-web-app] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shiva\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
 2024-11-20 11:48:39,552 [Worker-113: Launching my-web-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\shiva\eclipse-workspace\my-web-app":
 2024-11-20 11:48:39,552 [Worker-113: Launching my-web-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install test
+2024-11-20 21:27:01,629 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-26 09:53:54,207 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-26 09:53:55,033 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
